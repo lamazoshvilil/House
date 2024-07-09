@@ -7,12 +7,21 @@
           -webkit-box-direction: normal;
               -ms-flex-direction: column;
                   flex-direction: column;
+                  row-gap: 10px;
+                  position: relative;
+                  top: 100px;
+                  row-gap: 20px;
+                  background-color: rgba(88, 129, 87, 1);
+
      }
      .start {
           display: none;
      }
      .burger-bar {
           display: block;
+          font-size: 40px;
+          color: #F3ECDC;
+          background-color: rgba(88, 129, 87, 1);
      }
      .navigation.newNavigation {
           display: block;
