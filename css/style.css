@@ -90,7 +90,7 @@
      display: none;
 }
 #section-1 {
-     background-image: url(/images/backg.jpeg);
+     background-image: url(../images/backg.jpeg);
      background-size: cover;
      background-repeat: no-repeat;
      width: 100%;
@@ -646,7 +646,7 @@
          -ms-flex-pack: center;
              justify-content: center;
      margin: 0 auto;
-     background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(25, 78, 65, 1)), to(rgba(0, 0, 0, 0.11))), url(/images/backgroundroom.jpeg);
+     background-image:-webkit-gradient(linear, left top, left bottom, from(rgba(25, 78, 65, 1)), to(rgba(0, 0, 0, 0.11))), url(images/backgroundroom.jpeg);
      background-image:-o-linear-gradient(rgba(25, 78, 65, 1), rgba(0, 0, 0, 0.11)), url(/images/backgroundroom.jpeg);
      background-image:linear-gradient(rgba(25, 78, 65, 1), rgba(0, 0, 0, 0.11)), url(/images/backgroundroom.jpeg);
      background-size: cover;
