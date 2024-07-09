@@ -90,7 +90,7 @@
      display: none;
 }
 #section-1 {
-     background-image: url(./../images/backg.jpeg);
+     background-image: url(../images/backg.jpeg);
      background-size: cover;
      background-repeat: no-repeat;
      width: 100%;
