@@ -918,7 +918,7 @@
      color: rgba(45, 45, 45, 1);
 }
 #about-1 {
-     background-image: url(/images/backabout.jpeg);
+     background-image: url(../images/backabout.jpeg);
      background-size: cover;
      background-repeat: no-repeat;
      width: 100%;
